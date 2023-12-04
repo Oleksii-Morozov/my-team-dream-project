@@ -3,6 +3,12 @@ import TeamMemberItem from '@/components/TeamMemberItem.vue';
 import type { TeamMember } from '@/shared/types';
 
 const teamMembers: TeamMember[] = [
+  {
+    id: 1,
+    name: 'Oleksii Morozov',
+    position: 'Project Manager',
+    image: 'https://avatars.githubusercontent.com/u/95098796?v=4',
+  }
 ];
 
 </script>
