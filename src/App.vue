@@ -9,6 +9,12 @@ const teamMembers: TeamMember[] = [
     name: 'Oleksii Morozov',
     position: 'Project Manager',
     image: 'https://avatars.githubusercontent.com/u/95098796?v=4',
+  }, 
+  {
+    id: 2,
+    name: 'Albert Rudenko',
+    position: 'Frontend Developer',
+    image: 'https://avatars.githubusercontent.com/u/31893948?v=4',
   }
 ];
 </script>
