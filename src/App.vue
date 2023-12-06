@@ -20,6 +20,12 @@ const teamMembers: TeamMember[] = [
     name: 'Ihor Paranchuk',
     position: 'Quality assurance',
     image: 'https://imgur.com/3Ztlpuc.png',
+  },
+  {
+    id: 4,
+    name: 'Albert Rudenko',
+    position: 'Designer',
+    image: 'https://avatars.githubusercontent.com/u/31893948?v=4',
   }
 ];
 </script>
